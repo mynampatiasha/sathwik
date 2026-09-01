@@ -1,19 +1,27 @@
-# Sathwik — Digital Marketing Executive
+# 📣 Sathwik — Digital Marketing Executive
 
-Personal portfolio/landing page for Bodigutlapalli Sathwik, a digital
-marketing executive.
+`Static Site` `HTML/CSS/JS` `Personal Portfolio`
 
-## Tech stack
+> Personal landing page for Bodigutlapalli Sathwik, Digital Marketing Executive.
 
-Static HTML, CSS, and vanilla JavaScript — no build step, no framework.
+## What is this?
 
-## Structure
+A personal portfolio/landing page introducing Sathwik and his work in
+digital marketing.
 
-- `index.html` — the page
-- `index.css` — styles
-- `index.js` — page behavior
+## 🛠️ Tech Stack
 
-## Running locally
+Static **HTML**, **CSS**, and vanilla **JavaScript** — no build step, no framework.
+
+## 📁 Structure
+
+```
+index.html      # the page
+index.css        # styles
+index.js         # page behavior
+```
+
+## 🚀 Running Locally
 
 ```bash
 python -m http.server 8000
